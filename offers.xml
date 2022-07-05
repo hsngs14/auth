@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOffer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H. MAXI Classic 2000 </name>
+    <description>4000 DA + illimites + SMS vers Djezzy + 60 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: HAYLA MAXI Classic 2000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H. MAXI Classic 1500 </name>
+    <description>3000 DA + illimites + SMS vers Djezzy + 40 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: HAYLA MAXI Classic 1500 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H. MAXI Classic 1200 </name>
+    <description>2000 DA + illimites + SMS vers Djezzy + 20 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HAYLA MAXI Classic 1200 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H. MAXI Classic 100 </name>
+    <description>200 DA + illimites + SMS vers Djezzy + 2 Go 24 H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: HAYLA MAXI Classic 100 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Internet 1000</name>
+    <description>Internet 1000 = 15 Go /30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>6: Internet 1000DA=15Go /30 jours</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"6",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H.Bazaf Classic 100</name>
+    <description>150 DA + illimites + SMS vers Djezzy + 500 Mo 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>9: HAYLA BEZZEF 100</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"11",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"9",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"1",15</fourthUSSDCode>
+    <fifthUSSDCode />
+    <confirmationNumber>2</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H.Bazaf Classic 500</name>
+    <description>750 DA + illimites + SMS vers Djezzy + 15 Go 15 Jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: HAYLA BEZZEF Classic 500 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H.Bazaf Classic1200</name>
+    <description>1500 DA + illimites + SMS vers Djezzy + 6 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HAYLA BEZZEF Classic 1200 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H.Bazaf Classic 1500</name>
+    <description>3000 DA + illimites + SMS vers Djezzy + 40 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: HAYLA BEZZEF Classic 1500 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H.Bazaf Classic 2000</name>
+    <description>7000 DA + illimites + SMS vers Djezzy + 60 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: HAYLA BEZZEF Classic 2000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MILLENIUM 400</name>
+    <description>400 DA + illimites + SMS vers Djezzy + 1 Go 7 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>400</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: MILLENIUM 400 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>PixX 50</name>
+    <description>600DA vers Mobilis + sms illimites vers Mobilis + 50DA tous les reseaux valable 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>Vous voulez transferer  50 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*696*1*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>PixX 100</name>
+    <description>Appeles et sms illimites vers Mobilis + 150DA vers tous les reseaux + 1 Go valable 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>Vous voulez transferer  100 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*696*1*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>PixX 250</name>
+    <description>Appels et SMS vers Mobilis illimites + 2 Go internet +2 Go YouTube ( de 3H a 20 H )  + 250 DA vers les autres operateurs Valable 48H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>250</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>Vous voulez transferer  250 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*696*1*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>New PixX 500 </name>
+    <description>Appels ilimites vers Mobilis + 750 Da vers les autrs + 5 Go valable 15 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3.PixX 500 (5Go)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"3",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>New PixX 1000 </name>
+    <description>Appels ilimites vers Mobilis + 2000 DA vers les autres + 13 Go +FB valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4.PixX 1000 (13Go)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"4",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>New PixX 2000 </name>
+    <description>Appels ilimites vers tous les reseaux + ilimites SMS vers Mobilis + 30 Go valable 30 jours .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>5.PixX 2000 (30Go)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"*1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"5",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Normal Djezzy</name>
+    <description>flexy normal</description>
+    <fixedAmount>false</fixedAmount>
+    <amount>0</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HADRA 1500</name>
+    <description>5000 DA + illimites + SMS vers Djezzy + 5 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: HADRA 1500 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HADRA 1000</name>
+    <description>3000 DA + illimites + SMS vers Djezzy + 3 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: HADRA 1000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HADRA 500</name>
+    <description>1000 DA + illimites + SMS vers Djezzy + 2 Go 7 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HADRA 500 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HADRA 100</name>
+    <description>200 DA + illimites + SMS vers Djezzy + 200 Mo 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HADRA 100 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HADRA 50</name>
+    <description>500 DA + illimites + SMS vers Djezzy + 100 Mo 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: HADRA 50 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Facture Djezzy</name>
+    <description>payment facture</description>
+    <fixedAmount>false</fixedAmount>
+    <amount>0</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*761*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MILLENIUM 1200</name>
+    <description>appels et sms illimite vers Djezzy + 1500 DA yous les reseaus + 1.5 Go 30jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: MILLENIUM 1200 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MILLENIUM 2300</name>
+    <description>3000 DA + illimites + SMS vers Djezzy + 4 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2300</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: MILLENIUM 2300 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>LIBERTY 50</name>
+    <description>50 DA vers Djezzy + SMS illimites vers Djezzy + 5 Min tous les reseaux + 50 Mo 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: LIBERTY 50 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>LIBERTY 100</name>
+    <description>Appels et SMS illimites vers Djezzy + 10 Min tous les reseaux + 50 Mo 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: LIBERTY 100 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Normal Mobilis</name>
+    <description>Flexy Normal</description>
+    <fixedAmount>false</fixedAmount>
+    <amount>0</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Oreedoo 100</name>
+    <description>Appels ilimites + 150 DA tous les reaseaux .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1-Appels ILLIMITE 100DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold 1000</name>
+    <description>Appels illimités vers Ooredoo 24h/24 + 1500 Da vers les autrs + 12 Go valable 30 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>8-Gold 1000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"8",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HBAL 1500 Da</name>
+    <description>Appels illimités vers Djezzy 24h/24 + 3000 Da vers les autrs + 40 Go valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: HBAL 1500 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>H BAL 1000</name>
+    <description>3000DA + Appels et SMS illimites vers Djezzy + 15 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: H BAL 1000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HBAL 1000</name>
+    <description>3000DA + Appels et SMS illimites vers Djezzy + 15 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: HBAL 1000 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HBAL 100</name>
+    <description>Appels illimités vers Djezzy 24h/24 + 300 Da vers les autrs +01 Go valable 24 H </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HBAL 100 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HBAL 50</name>
+    <description>500 DA vers Djezzy + 100 DA vers les autre reseaux + 100 Mo + SMS vers Djezzy valable 24 H .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: HBAL 50 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Internet 100</name>
+    <description>Internet 100DA=1Go/24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>6: Internet 100DA=1Go/24H</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"6",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Internet 1000DA</name>
+    <description>Internet 1000DA=15Go/30 Jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>6: Internet 1000DA=15Go/30 Jours</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"6",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Ooredoo 50DA</name>
+    <description>60 Min vers Ooredoo</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>33-60m Ooredoo 50DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"33",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>ILLIMITE+TOUS 15m</name>
+    <description>Appels ILLIMITE vers Ooredoo+TOUS 15m</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>150</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>11-Appels ILLIMITE+TOUS 15m</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"11",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Haya! Weekend</name>
+    <description>Appels ilimites vers OoredoO + 500 DA + 2 Go (vendredi+samedi)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>250</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>22-Haya! Weekend</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"22",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Haya! 100</name>
+    <description>Appels ilimites vers OoredoO + 500 Mg + 100 DA  valable 24 H .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>26-Haya! 100</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"26",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Haya! 50</name>
+    <description>Appels ilimites vers OoredoO + 1 Go valable 2 H </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>28-Haya! 50</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"28",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Forfait 100 DA</name>
+    <description>Forfait 100 DA Vendredi</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>32-Forfait 100 DA Vendredi</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"32",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MAXY Hadra 500</name>
+    <description>Appels ilimites vers OoredoO + 500 DA  + 100 DA  valable 24 H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>27-MAXY Hadra 500</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"27",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>TOUS 60m</name>
+    <description>60 MN ilimites vers tous les reseaux</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2-TOUS 60m</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MAXY interenet 1000</name>
+    <description>2000 DA vers tous les reseaux + 4 Go + FB ilimites </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>8-Maxy INTERNET 1000 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"8",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MAXY Internet 2000</name>
+    <description>5000 DA vers tous les reseaux + 30 Go +FB ilimites valable 30 jours .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>9-MAXY INTERNET 2000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"9",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MAXY Hadra 1000</name>
+    <description>Appels ilimites vers OoredoO + 1000DA + 1 Go valable 30 jours. </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>15-MAXY HADRA 1000 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"15",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>MAXY HADRA 2000</name>
+    <description>Appels ilimites vers OoredoO + 3000DA + 4 Go valable 30 jours. </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>16-MAXY HADRA 2000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"16",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Super MAXY 3500</name>
+    <description>Appels ilimites vers OoredoO + 7000DA + 100 Go valable 30 jours. </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>3500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>17-Super MAXY 3500</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"17",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HAYA! 200</name>
+    <description>Appeles vers Ooredoo ilimites + 600 DA vers les autre reseaux .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>21-HAYA! 200</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"21",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>HAYA ! 30</name>
+    <description>10 MN vers tous les reseaux .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>30</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>23-HAYA ! 30</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"23",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Forfait 300</name>
+    <description>Forfait 300 (3jours)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>300</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>7-Forfait 300 (3jours)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"7",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>50 DA fb</name>
+    <description>50 DA = (50Mo+FB ILLIMITE)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>10-50 DA = (50Mo+FB ILLIMITE)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"10",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Forfait 100</name>
+    <description>Forfait 100 (1jour)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3-Forfait 100 (1jour)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Forfait 200</name>
+    <description>Forfait 200 (2jours)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4-Forfait 200 (2jours)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>1000 DA 15G</name>
+    <description>1000 DA (15Go+5Go YouTube)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>5-1000 DA (15Go+5Go YouTube)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"5",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>2000 DA 30g</name>
+    <description>2000 DA (30Go+15Go YouTube)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>6-2000 DA (30Go+15Go YouTube)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"6",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>100 DA Nuit</name>
+    <description>100 DA Nuit (2Go)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>12-100 DA Nuit (2Go)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"12",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Classic 1000 DA</name>
+    <description>1000 DA vers tous les reseaux </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>18-Classic 1000 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"18",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Classic 2000 DA</name>
+    <description>2000 DA vers tous les reseaux .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>19-Classic 2000 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"19",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>3000 DA 60G</name>
+    <description>3000 DA (60Go+ILLIMITE YouTube)</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>3000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>20-3000 DA (60Go+ILLIMITE YouTube)</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"20",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold 1500</name>
+    <description>Appels illimités vers Ooredoo 24h/24 + 400 minutes - Crédit mensuel valable vers tous les opérateurs nationaux +40 GO (3 Premiers mois / Après 20 GO par mois ) +Tarifs SMS en vigueur </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>10-Gold 1500</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"10",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold 2000</name>
+    <description>Appels illimités vers Ooredoo 24h/24 + 5000 Da vers les autrs + 30 Go valable 30 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>9-Gold 2000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"9",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold 200</name>
+    <description>Appeles vers Ooredoo &amp; internet ilimites + 600 DA vers autre valable 24 H </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>21-Gold 200</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"21",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold 100</name>
+    <description>Appels vers Ooredoo  + FB ilimites +500 MoYou Tube  valable 24 H .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>26-Gold 100</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"26",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold 50</name>
+    <description>Appele ilimites vers Ooredoo + 1 Go valable 2 H .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>28-Gold 50</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"28",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Normal Ooredoo</name>
+    <description>normal et facture Ooredoo</description>
+    <fixedAmount>false</fixedAmount>
+    <amount>0</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>rer AMOUNT DA de votre compte vers le num</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*581*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Hayla 2000</name>
+    <description>4000 DA + illimites vers Djezzy + 60 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: HAYLA 2000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Hayla 1000</name>
+    <description>1300 DA + illimites vers Djezzy + 12 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: HAYLA 1000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Hayla 400</name>
+    <description>600 DA + illimites vers Djezzy + 4 Go 7 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>400</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HAYLA 400 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Hayla 100</name>
+    <description>150 DA + illimites vers Djezzy + 1 Go 24H</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: HAYLA 100 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Special 2000 </name>
+    <description>Tous reseaux illimites + 25 Go 30jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: Special 2000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>TOP 4G 500</name>
+    <description>1000 DA vers tous les reseaux &amp; international + 500 Mo valable 7 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>TOP 4G 2000</name>
+    <description>5000 DA vers tous les reseaux &amp; international + 3 Go + FB +WTS valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Awel Tous 100 </name>
+    <description>100 DA vers tous les reseaux &amp; international + 200 DA vers Mobilis valable 24 H .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Awel Tous 500</name>
+    <description>500 DA vers tous les reseaux &amp; international + 2000 DA vers Mobilis valable 7 jours .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Awel Tous 1000</name>
+    <description>1000 DA vers tous les reseaux &amp; international + 2000 DA vers Mobilis valable 7 jours .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Mobilis</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Awel Tous 2000</name>
+    <description>2000 DA vers tous les reseaux &amp; international + 2000 DA vers Mobilis valable 7 jours .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>false</offerNeedConfirmation>
+    <offerHashFinder>ThisIsStaticOffer</offerHashFinder>
+    <firstUSSDCode>+CUSD=1,"*630*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>-1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>New PixXn 500 </name>
+    <description>Appels ilimites vers Mobilis + 750 Da vers les autrs + 5 Go valable 15 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>Vous voulez transferer  500 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*696*1*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>New PixXn 1000</name>
+    <description>Appels ilimites vers Mobilis + 2000 DA vers les autres + 13 Go +FB valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>Vous voulez transferer  1000 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*696*1*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order2</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>New PixXn 2000</name>
+    <description>Appels ilimites vers tous les reseaux + ilimites SMS vers Mobilis + 30 Go valable 30 jours .</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>Vous voulez transferer  2000 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*696*1*NUM*AMOUNT*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode />
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Maxy2000</name>
+    <description>4000 DA + illimites + SMS vers Djezzy + 60 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: HAYLA MAXI 2000 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Maxy1500</name>
+    <description>3000 DA + illimites + SMS vers Djezzy + 40 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: HAYLA MAXI 1500 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Maxy1200</name>
+    <description>2000 DA + illimites + SMS vers Djezzy + 20 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: HAYLA MAXI 1200 </offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold-1000</name>
+    <description>Appels illimités vers Ooredoo 24h/24 + 1500 Da vers les autrs + 12 Go valable 30 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>8- GOLD 1000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"8",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold-1500</name>
+    <description>Gold 1500</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>10-GOLD 1500</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"10",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold-200</name>
+    <description>Gold 200</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>21-GOLD 200</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"21",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>GOLD-100</name>
+    <description>Gold 100</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>100</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>26-GOLD 100</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"26",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>GOLD-50</name>
+    <description>Gold 100</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>28-GOLD 50</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"28",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Ooredoo</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Gold-2000</name>
+    <description>Appels illimités vers Ooredoo 24h/24 + 1500 Da vers les autrs + 12 Go valable 30 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>9- GOLD 2000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*585*NUM#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"9",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"PIN",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>IZZY 1200 Da</name>
+    <description>1000 DA + illimites + SMS vers Djezzy + 10 Go + youtube 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: IZZY 1200 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>IZZY 500 Da</name>
+    <description> illimites + SMS vers Djezzy + 5 Go 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: IZZY 500 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>IZZY 50 Da</name>
+    <description> illimites + SMS vers Djezzy + 1 Go 1 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: IZZY 50 Da</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name> iZZY 300 DA</name>
+    <description> illimites + SMS vers Djezzy + 3 Go 1 5jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>300</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: iZZY 300 DA</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>ZID 800</name>
+    <description>1000 DA + llimites + 8 Go +Valable 30 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>800</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>1: DJEZZY ZID 800</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>ZID 400</name>
+    <description>500 DA + Appels illimités vers Djezzy + 4 Go +Valable 15 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>400</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2: DJEZZY ZID 400</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"2",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>ZID 200</name>
+    <description>200 DA + Appels illimités vers Djezzy + 2 Go +Valable 7 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>200</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3: DJEZZY ZID 200</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"3",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Djezzy</opt>
+    <orderType>Order3</orderType>
+    <IsStatic>false</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>ZID 50</name>
+    <description>50 DA + Appels illimités vers Djezzy + 500 mo +Valable 1 jours </description>
+    <fixedAmount>true</fixedAmount>
+    <amount>50</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4: DJEZZY ZID 50</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*760*NUM*PIN#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"4",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"1",15</thirdUSSDCode>
+    <fourthUSSDCode />
+    <fifthUSSDCode />
+    <confirmationNumber>1</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Sama Mix 500</name>
+    <description>Appels ilimites vers Mobilis + 1000 Da vers les autrs + 5 Go valable 15 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>2.Sama Mix 500</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"3",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Sama Mix 1000</name>
+    <description>Appels ilimites vers Mobilis + 2000 DA vers les autres + 15 Go +FB valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>3.Sama Mix 1000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"3",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Sama Mix 1500</name>
+    <description>Appels ilimites vers Mobilis + 3000 DA vers les autres + 30 Go +FB valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>1500</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>4.Sama Mix 1500</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"4",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+  <Offer>
+    <opt>Pix</opt>
+    <orderType>Order5</orderType>
+    <IsStatic>true</IsStatic>
+    <offerStatus>Added</offerStatus>
+    <name>Sama Mix 2000</name>
+    <description>Appels ilimites vers Mobilis + 4000 DA vers les autres + 50 Go +FB valable 30 jours</description>
+    <fixedAmount>true</fixedAmount>
+    <amount>2000</amount>
+    <offerNeedConfirmation>true</offerNeedConfirmation>
+    <offerHashFinder>5.Sama Mix 2000</offerHashFinder>
+    <firstUSSDCode>AT+CUSD=1,"*665#",15</firstUSSDCode>
+    <secondtUSSDCode>AT+CUSD=1,"1",15</secondtUSSDCode>
+    <thirdUSSDCode>AT+CUSD=1,"NUM",15</thirdUSSDCode>
+    <fourthUSSDCode>AT+CUSD=1,"PIN",15</fourthUSSDCode>
+    <fifthUSSDCode>AT+CUSD=1,"5",15</fifthUSSDCode>
+    <confirmationNumber>4</confirmationNumber>
+    <ID>0</ID>
+    <DateTimeOfExution>0001-01-01T00:00:00</DateTimeOfExution>
+    <OldBalanceTwo>0</OldBalanceTwo>
+    <NewBalanceTwo>0</NewBalanceTwo>
+    <OldBalance>0</OldBalance>
+    <NewBalance>0</NewBalance>
+    <SmallSalerID>0</SmallSalerID>
+    <sabaqli>false</sabaqli>
+    <sabaqliExpectedAount>0</sabaqliExpectedAount>
+  </Offer>
+</ArrayOfOffer>
